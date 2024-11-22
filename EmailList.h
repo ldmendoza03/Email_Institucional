@@ -1,3 +1,14 @@
+/*
+ * Universidad de las Fuerzas Armadas "ESPE"
+ * Enunciado: Creacion de Correo a partir de Nombres y Apellidos
+ * Autor: Leandro Mendoza
+ * Fecha de Creación: 20 de Noviembre del 2024
+ * Fecha de Modificación: 21 de Noviembre del 2024
+ * NRC: 1978
+ * Curso: Estructura de Datos
+ * Docente: Edgar Solis
+ */
+
 #ifndef EMAILLIST_H
 #define EMAILLIST_H
 

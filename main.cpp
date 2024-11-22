@@ -99,8 +99,8 @@ int main() {
     char opcion;
 
     do {
-        nombreCompleto = ingresar("Ingrese los nombres (ejemplo: Maria del Carmen): ");
-        apellidoCompleto = ingresar("Ingrese los apellidos (ejemplo: Lope de Vega): ");
+        nombreCompleto = ingresar("Ingrese los nombres: ");
+        apellidoCompleto = ingresar("Ingrese los apellidos: ");
 
         nombre1 = obtenerPrimeraPalabra(nombreCompleto);
         nombre2 = obtenerUltimaPalabra(nombreCompleto);
